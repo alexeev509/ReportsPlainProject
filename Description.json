@@ -1,0 +1,68 @@
+{
+  "project": {
+    "name": "TakeTestFromThisProject",
+    "binDir": "C:\\Users\\alexe\\IdeaProjects\\TakeTestFromThisProject\\target\\classes",
+    "srcDir": "",
+    "regexFilter": "^\\w(\\/\\w)+"
+  },
+  "reportGroups": [
+    {
+      "madeByHuman": true,
+      "reportsDir": "C:\\Users\\alexe\\IdeaProjects\\TakeTestFromThisProject\\reports",
+      "testClassVMName": "human.TestIfElse",
+      "reports": [
+        {
+          "testMethod": "ifElseTest2",
+          "execFileName": "humanIfThenTestifElseTest_1.exec"
+        },
+        {
+          "testMethod": "divideTest2",
+          "execFileName": "humanIfThenTestifElseTest_2.exec"
+        }
+      ]
+    },
+    {
+      "madeByHuman": true,
+      "reportsDir": "C:\\Users\\alexe\\IdeaProjects\\TakeTestFromThisProject\\reports",
+      "testClassVMName": "human.MathOperationsTest",
+      "reports": [
+        {
+          "testMethod": "summOrNegative_1",
+          "execFileName": "humanMathOperationsTestsummOrNegative_1.exec"
+        },{
+          "testMethod": "summOrNegative_2",
+          "execFileName": "humanMathOperationsTestsummOrNegative_2.exec"
+        },{
+          "testMethod": "summTest",
+          "execFileName": "humanMathOperationsTestsummTest.exec"
+        }
+      ]
+    },{
+      "madeByHuman": false,
+      "reportsDir": "C:\\Users\\alexe\\IdeaProjects\\TakeTestFromThisProject\\reports",
+      "testClassVMName": "automated.MathOperationsTest",
+      "reports": [
+        {
+          "testMethod": "summOrNegative_1",
+          "execFileName": "automatedMathOperationsTestSummOrNegative_1.exec"
+        },{
+          "testMethod": "summOrNegative_2",
+          "execFileName": "automatedMathOperationsTestSummOrNegative_2.exec"
+        },{
+          "testMethod": "summTest",
+          "execFileName": "automatedMathOperationsTestSummTest.exec"
+        }
+      ]
+    },{
+      "madeByHuman": false,
+      "reportsDir": "C:\\Users\\alexe\\IdeaProjects\\TakeTestFromThisProject\\reports",
+      "testClassVMName": "automated.Factorial",
+      "reports": [
+        {
+          "testMethod": "summOrNegative_1",
+          "execFileName": "automatedFactorialTestfactorialTest.exec"
+        }
+      ]
+    }
+  ]
+}
